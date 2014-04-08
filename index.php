@@ -1,3 +1,3 @@
 <?php
-    header("Location: ../friendsmash_social.index.php");
+    header("Location: ../friendsmash_social/index.php");
 ?>
